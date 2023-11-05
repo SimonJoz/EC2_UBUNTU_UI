@@ -1,0 +1,27 @@
+formatter: markdown
+
+sections:
+  header-from: main.tf
+  footer-from: main.tf
+  hide-all: false
+  hide: []
+  show-all: true
+  show: []
+
+output:
+  mode: replace
+  file: ./README.md
+
+settings:
+  color: true
+  anchor: true
+  default: true
+  escape: true
+  indent: 1
+  required: true
+  sensitive: true
+  type: true
+
+
+
+
