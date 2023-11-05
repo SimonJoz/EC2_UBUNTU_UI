@@ -7,7 +7,7 @@ Additionally, the code defines an AWS Systems Manager patch baseline and an asso
 
 ## User Data
 
-The user data script installs
+The user data script need to be installed manually
 
 # Requirements
 

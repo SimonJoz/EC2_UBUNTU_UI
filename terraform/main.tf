@@ -7,7 +7,7 @@
  *
  * ## User Data
  *
- * The user data script installs
+ * The user data script need to be installed manually
  *
  */
 
